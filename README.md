@@ -51,8 +51,8 @@
  ## 📈 GitHub Stats
  [![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbbullet)](https://github.com/anuraghazra/github-readme-stats)
  
- ## 💪 Let's get some motivation
- <img src="https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=default&font=default?quoteCategory=motivational" />
+ ## ✌ Quotes for you
+ <img src="https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=default&font=default" />
  
  
 <hr>
