@@ -9,7 +9,7 @@
 <h3 align="center">I am a Full Stack Engineer and an entrepreneur who loves 🚀 startups and 📦 products that make this world a better place.</h3>
 <br>
 
-- 🔭 I’m currently working on my side project which is yet to be revealed. 
+- 🔭 I’m currently working on a project which is yet to be revealed. 
 - 🌱 I’m currently learning TypeScript, Flutter, Kubernetes/Terraform.
 - 👯 I’m looking to collaborate on interesting open-source projects, startups & product development.
 - 💬 Ask me about MEVN and LEMP stack and technology stuffs.
