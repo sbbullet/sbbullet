@@ -6,7 +6,7 @@
 
 <h1 align="center">Namaste, beautiful souls!</h1>
 
-<h3 align="center">I am a Full Stack Engineer and an entrepreneur who loves 🚀 startups and 📦 products that make this world a better place.</h3>
+<h3 align="center">I am a Software Engineer and an entrepreneur who loves 🚀 startups and 📦 products that make this world a better place.</h3>
 <br>
 
 - 🔭 I’m currently working on a project which is yet to be revealed. 
@@ -32,6 +32,8 @@
 <br>
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white")
+![RedisDB](https://img.shields.io/badge/Database-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white")
+![Elasticsearch](https://img.shields.io/badge/Database-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white")
 <br>
 ![Docker](https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker)
 ![GNU Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash)
