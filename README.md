@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/sbbullet/sbbullet/main/GitHub%20Banner.png" alt="GitHub Profile Banner"/>
+<img align="center" src="https://raw.githubusercontent.com/sbbullet/sbbullet/main/github_banner.png" alt="GitHub Profile Banner"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sbbullet/sbbullet/main/namaste.gif" height="240" alt="Namaste Greeting" />
