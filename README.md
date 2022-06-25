@@ -10,7 +10,7 @@
 <br>
 
 - 🔭 I’m currently working on a project which is yet to be revealed. 
-- 🌱 I’m currently learning TypeScript, Flutter, Kubernetes/Terraform.
+- 🌱 I’m currently learning TypeScript, Flutter, Kubernetes.
 - 👯 I’m looking to collaborate on interesting open-source projects, startups & product development.
 - 💬 Ask me about MEVN and LEMP stack and technology stuffs.
 
