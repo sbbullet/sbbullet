@@ -27,7 +27,7 @@
 ![Node JS](https://img.shields.io/badge/Backend-NodeJS-339933?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Backend-Express-000000?style=for-the-badge&logo=express)
 ![Apollo GraphQL](https://img.shields.io/badge/Backend-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollographql)
-![Kafka](https://img.shields.io/badge/Backend-Kakfa-231F20?style=for-the-badge&logo=apachekafka)
+![Kafka](https://img.shields.io/badge/Backend-Kafka-231F20?style=for-the-badge&logo=apachekafka)
 ![Laravel](https://img.shields.io/badge/Backend-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white")
 <br>
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb)
