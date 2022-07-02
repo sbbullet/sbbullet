@@ -9,10 +9,9 @@
 <h3 align="center">I am a Software Engineer and an entrepreneur who loves 🚀 startups and 📦 products that make this world a better place.</h3>
 <br>
 
-- 🔭 I’m currently working on a project which is yet to be revealed. 
-- 🌱 I’m currently learning TypeScript, Flutter, Kubernetes.
+- 🔭 I’m currently working on a project which is yet to be revealed.
 - 👯 I’m looking to collaborate on interesting open-source projects, startups & product development.
-- 💬 Ask me about MEVN and LEMP stack and technology stuffs.
+- 💬 Ask me about anything you think would be a great conversation to have with me.
 
 <hr>
 
@@ -28,14 +27,17 @@
 ![Node JS](https://img.shields.io/badge/Backend-NodeJS-339933?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Backend-Express-000000?style=for-the-badge&logo=express)
 ![Apollo GraphQL](https://img.shields.io/badge/Backend-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollographql)
+![Kafka](https://img.shields.io/badge/Backend-Kakfa-231F20?style=for-the-badge&logo=apachekafka)
 ![Laravel](https://img.shields.io/badge/Backend-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white")
 <br>
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white")
+![MySQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white")
 ![RedisDB](https://img.shields.io/badge/Database-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white")
 ![Elasticsearch](https://img.shields.io/badge/Database-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white")
 <br>
-![Docker](https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker)
+![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/DevOps-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash)
 <br>
 
