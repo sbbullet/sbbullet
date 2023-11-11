@@ -9,7 +9,7 @@
 <h3 align="center">I am a Software Engineer and an entrepreneur who loves 🚀 startups and 📦 products that make this world a better place.</h3>
 <br>
 
-- 🔭 I’m currently working on a project which is yet to be revealed.
+- 🔭 I’m currently working at [Niural]([url](https://github.com/Niural)).
 - 👯 I’m looking to collaborate on interesting open-source projects, startups & product development.
 - 💬 Ask me about anything you think would be a great conversation to have with me.
 
